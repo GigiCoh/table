@@ -1,0 +1,38 @@
+.row1 td:nth-child(odd){
+	background-color: hotpink;
+}
+
+.color{
+	background-color: hotpink;
+}
+
+td{
+	width:100px;
+	height: 100px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+.row4 td:nth-child(odd){
+	background-color: hotpink;
+}
+
+
+#table2{
+	border-collapse: collapse;
+}
+
+#table2 tr,#table2 td,#table2 th{
+	border:1px solid;
+	padding: 10px;
+	text-align: left;
+}
+
+#table2 .col-1{
+	background-color: lightblue;
+}
+
+
+
